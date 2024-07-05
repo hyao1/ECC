@@ -6,4 +6,4 @@ To train the model, please first modify the dataset path in config.py and run:
 ```train
 python train.py --lmd_1 1.7 --lmd_2 0.6 --dataset_name cubbirds --model_path model
 ```
-Models trained by us, including (InceptionV3, ResNet50, ResNet101, DenseNet121) are [OneDrive](https://stuhiteducn-my.sharepoint.com/:f:/g/personal/23b903042_stu_hit_edu_cn/EuPeGhRtW5tIvdECbukgDIgBlJzeoiLMaLKzADJRF_1AWw?e=7hNcWf)
+Models trained by us, including InceptionV3, ResNet50, ResNet101, DenseNet121 are [OneDrive](https://stuhiteducn-my.sharepoint.com/:f:/g/personal/23b903042_stu_hit_edu_cn/EuPeGhRtW5tIvdECbukgDIgBlJzeoiLMaLKzADJRF_1AWw?e=7hNcWf)
